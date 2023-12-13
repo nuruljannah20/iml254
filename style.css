@@ -1,0 +1,1949 @@
+element.style {
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+body, html {
+    height: 100%;
+}
+body, html {
+    background: transparent;
+    border: 0;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+html[Attributes Style] {
+    -webkit-locale: "en";
+}
+user agent stylesheet
+:root {
+    view-transition-name: root;
+}
+user agent stylesheet
+html {
+    display: block;
+}
+element.style {
+}
+user agent stylesheet
+head {
+    display: none;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+body {
+    overflow-x: auto;
+    overflow-y: scroll;
+}
+body, html {
+    height: 100%;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+body, html {
+    background: transparent;
+    border: 0;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+#SITE_CONTAINER {
+    position: relative;
+}
+a, abbr, acronym, address, applet, b, big, blockquote, button, caption, center, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, footer, form, h1, h2, h3, h4, h5, h6, header, i, iframe, img, ins, kbd, label, legend, li, nav, object, ol, p, pre, q, s, samp, section, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, title, tr, tt, u, ul, var {
+    background: transparent;
+    border: 0;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+link {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+link {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+link {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+link {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 240,243,246;
+    --color_13: 194,194,194;
+    --color_14: 48,49,49;
+    --color_15: 48,49,49;
+    --color_16: 188,199,209;
+    --color_17: 139,152,167;
+    --color_18: 48,49,49;
+    --color_19: 39,58,78;
+    --color_20: 20,29,39;
+    --color_21: 221,193,206;
+    --color_22: 176,135,156;
+    --color_23: 153,94,122;
+    --color_24: 102,63,81;
+    --color_25: 51,31,41;
+    --color_26: 238,230,186;
+    --color_27: 221,206,124;
+    --color_28: 166,155,93;
+    --color_29: 111,103,62;
+    --color_30: 55,52,31;
+    --color_31: 170,173,219;
+    --color_32: 122,125,183;
+    --color_33: 49,54,147;
+    --color_34: 33,36,98;
+    --color_35: 16,18,49;
+    --color_36: 255,255,255;
+    --color_37: 48,49,49;
+    --color_38: 240,243,246;
+    --color_39: 194,194,194;
+    --color_40: 117,117,117;
+    --color_41: 39,58,78;
+    --color_42: 188,199,209;
+    --color_43: 20,29,39;
+    --color_44: 139,152,167;
+    --color_45: 48,49,49;
+    --color_46: 48,49,49;
+    --color_47: 117,117,117;
+    --color_48: 48,49,49;
+    --color_49: 48,49,49;
+Show All Properties (38 more)
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
+
